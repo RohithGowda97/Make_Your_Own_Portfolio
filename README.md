@@ -3,7 +3,7 @@
 Welcome to my personal portfolio! This website showcases my work, projects, and experiences as an aspiring AI Developer.  
 
 ## 🌐 Live Website  
-[Visit My Portfolio](https://makeyourownportfolio.vercel.app/)  
+[Visit My Portfolio](https://myportfolio.vercel.app/)  
 
 ## 📌 Features  
 - **Projects** – A collection of my technical work.  
